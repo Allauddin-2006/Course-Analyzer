@@ -1,0 +1,6 @@
+{
+  "name": "OutcomeIQ - Course Outcome Achievement Analyser",
+  "description": "AI-enabled OBE, NBA, and NAAC accreditation analytics platform for Course Outcome (CO) and Program Outcome (PO) attainment, root cause gap analysis, and study recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
